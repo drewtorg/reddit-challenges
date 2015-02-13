@@ -36,7 +36,7 @@ namespace Priorities
         public string DequeueA()
         {
             if (Count == 0)
-                throw new IndexOutOfRangeException();
+                throw new InvalidOperationException();
 
             string first = ListA.Values[0];
             ListA.RemoveAt(0);
@@ -53,6 +53,9 @@ namespace Priorities
 
         public string DequeueB()
         {
+            if (Count == 0)
+                throw new InvalidOperationException();
+
             string first = ListB.Values[0];
             ListB.RemoveAt(0);
             foreach (var keyVal in ListA)
