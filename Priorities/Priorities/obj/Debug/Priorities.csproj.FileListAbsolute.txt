@@ -1,0 +1,6 @@
+C:\Users\Drew\Documents\GitHub\reddit-challenges\Priorities\Priorities\bin\Debug\Priorities.exe.config
+C:\Users\Drew\Documents\GitHub\reddit-challenges\Priorities\Priorities\bin\Debug\Priorities.exe
+C:\Users\Drew\Documents\GitHub\reddit-challenges\Priorities\Priorities\bin\Debug\Priorities.pdb
+C:\Users\Drew\Documents\GitHub\reddit-challenges\Priorities\Priorities\obj\Debug\Priorities.csprojResolveAssemblyReference.cache
+C:\Users\Drew\Documents\GitHub\reddit-challenges\Priorities\Priorities\obj\Debug\Priorities.exe
+C:\Users\Drew\Documents\GitHub\reddit-challenges\Priorities\Priorities\obj\Debug\Priorities.pdb
