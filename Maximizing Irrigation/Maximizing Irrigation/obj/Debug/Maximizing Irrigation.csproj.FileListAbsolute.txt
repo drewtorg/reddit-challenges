@@ -1,0 +1,6 @@
+C:\Users\Drew\Documents\GitHub\Tome\Maximizing Irrigation\Maximizing Irrigation\bin\Debug\Maximizing Irrigation.exe.config
+C:\Users\Drew\Documents\GitHub\Tome\Maximizing Irrigation\Maximizing Irrigation\bin\Debug\Maximizing Irrigation.exe
+C:\Users\Drew\Documents\GitHub\Tome\Maximizing Irrigation\Maximizing Irrigation\bin\Debug\Maximizing Irrigation.pdb
+C:\Users\Drew\Documents\GitHub\Tome\Maximizing Irrigation\Maximizing Irrigation\obj\Debug\Maximizing Irrigation.csprojResolveAssemblyReference.cache
+C:\Users\Drew\Documents\GitHub\Tome\Maximizing Irrigation\Maximizing Irrigation\obj\Debug\Maximizing Irrigation.exe
+C:\Users\Drew\Documents\GitHub\Tome\Maximizing Irrigation\Maximizing Irrigation\obj\Debug\Maximizing Irrigation.pdb
